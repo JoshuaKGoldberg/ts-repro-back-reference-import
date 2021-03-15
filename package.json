@@ -1,0 +1,17 @@
+{
+  "name": "wat-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -b",
+    "verbose": "tsc --b --f -v --listFiles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "typescript": "^3.8.3"
+  }
+}
